@@ -1,4 +1,6 @@
-# Smart-Extension-Bord-
+# To develop a system where user can monitor and analyze their home based on
+various parameters and can control its appliances using google assistant using
+Internet of Things (IOT)-
 Step 1: Import the code 
 Step 2: Open Sineric Pro and create a room and create AppKey
 Step 3: Import the code in ESP8266 Module and then Define the relay and constants 
